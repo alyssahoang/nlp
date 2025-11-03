@@ -43,5 +43,6 @@ See also the list of [bibliographic references](../references/references.md)
 #### Transformers
 - [Tiny Transformers Example](./nlp/L5.0-tiny-transformer.ipynb)
 - [Transformers from scratch](./nlp/L5.1-transformers.ipynb)
-- [BERT](./nlp/L5.2-bert-explained.ipynb)
-- [GPT](./nlp/L5.3-gpt.ipynb)
+- [TinyBERT](./nlp/L5.2-tiny-bert.ipynb)
+- [BERT](./nlp/L5.3-bert-explained.ipynb)
+- [GPT](./nlp/L5.4-gpt.ipynb)
