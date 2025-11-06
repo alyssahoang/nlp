@@ -46,3 +46,6 @@ See also the list of [bibliographic references](../references/references.md)
 - [TinyBERT](./nlp/L5.2-tiny-bert.ipynb)
 - [BERT](./nlp/L5.3-bert-explained.ipynb)
 - [GPT](./nlp/L5.4-gpt.ipynb)
+
+#### Proprietary models and prompt engineering
+- [Prompt Engineering](../2025-26/nlp/L6.0-prompt-engineering.ipynb)
