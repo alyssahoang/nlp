@@ -49,3 +49,24 @@ See also the list of [bibliographic references](../references/references.md)
 
 #### Proprietary models and prompt engineering
 - [Prompt Engineering](../2025-26/nlp/L6.0-prompt-engineering.ipynb)
+
+#### Practical LLMs
+- [Introduction](../2025-26/nlp/L7.0-practical-llms.ipynb)
+- [Llama cpp](../2025-26/nlp/L7.1-llama-cpp-example.ipynb)
+- [VLLM](../2025-26/nlp/L7.2-vllm-example.ipynb)
+- [MLX](../2025-26/nlp/L7.3-mlx-example.ipynb)
+
+#### Image processing
+- [Images and text](../2025-26/nlp/L8.0-image-processing.ipynb)
+
+#### Explainability
+- [Introduction](../2025-26/nlp/L9.0-explainability.ipynb)
+- [SHAP](../2025-26/nlp/L9.1-shap_example.ipynb)
+- [Saliency Maps](../2025-26/nlp/L9.2-saliency-clip.ipynb)
+- [Concept Activiation](../2025-26/nlp/L9.3-concept-activation-vectors.ipynb)
+
+#### Biases
+- [Introduction](../2025-26/nlp/L10.0-biases.ipynb)
+- [Classification](../2025-26/nlp/L10.1-bias-bert-classifier.ipynb)
+- [Masking](../2025-26/nlp/L10.2-bias-masking-task.ipynb)
+- [Chat Completion](../2025-26/nlp/L10.3-bias-completion-task.ipynb)
